@@ -1,3 +1,11 @@
+.disclaimer {
+  font-family: Roboto, Arial;
+  font-size: 14px;
+  margin-bottom: 20px;
+  margin-left: 20px;
+  text-align: center;
+}
+
 .header {
   height: 55px;
   display: flex;
